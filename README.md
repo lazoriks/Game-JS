@@ -3,7 +3,7 @@
 This link directs you to the old well known game of Tetris. 
 A rather simple game written in Javascript is aimed at people who want to remember this game and have a good time.
 
-![Main page](https://github.com/lazoriks/Game-JS/img/back.png)
+![Main page](https://github.com/lazoriks/Game-JS/blob/main/img/back.png)
 
 ## Features 
 
@@ -15,6 +15,7 @@ A rather simple game written in Javascript is aimed at people who want to rememb
   + Ensures easy navigation across all devices, providing a consistent experience.
 
 ![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+
 
 - __The landing page image__
 
