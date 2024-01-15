@@ -3,7 +3,7 @@
 This link directs you to the old well known game of Tetris. 
 A rather simple game written in Javascript is aimed at people who want to remember this game and have a good time.
 
-![Responsice Mockup](https://github.com/lazoriks/Game-JS/tree/main/img/back.webp)
+![Main page](https://github.com/lazoriks/Game-JS/img/back.png)
 
 ## Features 
 
@@ -11,8 +11,8 @@ A rather simple game written in Javascript is aimed at people who want to rememb
 
 - __Navigation Bar__
 
-  - Featured on all pages, the responsive navigation bar includes links to the Logo, Home page, Gallery, and Sign Up page.
-  - Ensures easy navigation across all devices, providing a consistent experience.
+  + Featured on all pages, the responsive navigation bar includes links to the Logo, Home page, Gallery, and Sign Up page.
+  + Ensures easy navigation across all devices, providing a consistent experience.
 
 ![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
 
