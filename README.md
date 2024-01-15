@@ -3,7 +3,7 @@
 This link directs you to the old well known game of Tetris. 
 A rather simple game written in Javascript is aimed at people who want to remember this game and have a good time.
 
-![Main page](https://github.com/lazoriks/Game-JS/blob/main/img/bug.PNG)
+![Main page](https://github.com/lazoriks/Game-JS/blob/main/img/back.webp)
 
 ## Features 
 
