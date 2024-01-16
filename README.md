@@ -36,7 +36,10 @@ When you click the Start button, the pieces appear on the board, move down and f
 ### Features Left to Implement
 
 - Add more interactive elements to the game interface.
+- Add a record of the game's scoring history.
+- add game sound during various events.
 - Implement a scoring system to track users' performance.
+- refine the settings for moving to a higher level.
 
 ## Testing 
 
@@ -72,6 +75,8 @@ The live link can be found here.
 - I took part in a webinar on writing a Tetris game in Javascript:
   [Tetris game youtube](https://www.youtube.com/playlist?list=PLOlyZEVllXBFqd_vujzq3lX0MeeUHHsz6)
 - I am also taking additional training on the materials from the website:
+   + [w3schools](https://www.w3schools.com/js)
+   + [ItProger](https://itproger.com/ua)
    + [CyberBionic Systematics](https://edu.cbsystematics.com/ua)
    + [Codefinity](https://ua.codefinity.com/)
    + [Wiki](https://www.wikihow.com/Get-Better-at-Tetris)
@@ -82,14 +87,15 @@ The live link can be found here.
 
 ## Other General Project Advice
 
-Follow good coding practices and maintain a healthy commit history.
-Ensure meaningful naming of files and directories for clarity.
-Review coding best practices and style guides.
 Congratulations on completing your Tetris Game project! Feel free to explore additional features and enhancements to further improve the gaming experience.
+
+Following the tutorials on the course page may not provide enough information and knowledge to create full-fledged games or interactive websites. Therefore, there is always a need to search for additional materials, courses, and information from other sources.
+
+The book [Javascript for Kids UA](https://starylev.com.ua/javascript-dlya-ditey) helped me to learn Java.  The book describes the basics of the language, the main concepts and its application in a clear and understandable language for beginners. 
+I also recommend that you consider and study with the help of the book [Head First JavaScript Programming](https://www.oreilly.com/library/view/head-first-javascript/9781449340124/). With examples and in English. 
 
 - Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
   - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
   - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
   - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
 
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 
