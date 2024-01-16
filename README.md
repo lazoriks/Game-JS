@@ -74,6 +74,7 @@ The live link can be found here.
 - I am also taking additional training on the materials from the website:
    + [CyberBionic Systematics](https://edu.cbsystematics.com/ua)
    + [Codefinity](https://ua.codefinity.com/)
+   + [Wiki](https://www.wikihow.com/Get-Better-at-Tetris)
 
 ### Media
 
