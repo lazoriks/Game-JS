@@ -39,6 +39,7 @@ When you click the Start button, the pieces appear on the board, move down and f
 - Add a record of the game's scoring history.
 - add game sound during various events.
 - Implement a scoring system to track users' performance.
+- refine the settings for moving to a higher level.
 
 ## Testing 
 
