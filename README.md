@@ -16,7 +16,6 @@ A rather simple game written in Javascript is aimed at people who want to rememb
 + Pause
   
 And also navigation of information on the game: 
-+ High score
 + Score 
 + Lines (how many lines are stacked)
 + Next (next figure)
@@ -32,6 +31,12 @@ When you click the Start button, the pieces appear on the board, move down and f
 - The landing page is quite clear for the user.
 
 ![Landing Page](https://github.com/lazoriks/Game-JS/blob/main/img/LandPage.png)
+
+- __Figures in Game__
+
+- The following figures are designed in this game:
+O-block, I-block, L-block, J-block, S-block, T-block, Z-block
+![Figures](https://github.com/lazoriks/Game-JS/blob/main/img/arraySquare.jpg)
 
 ### Features Left to Implement
 
