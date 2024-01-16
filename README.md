@@ -68,7 +68,7 @@ The live link can be found here.
 ### Content 
 
 - The project structure and README template were adapted from Lucy Rush's template.
-- Tetris game implementation is based on JavaScript and HTML.
+- Tetris game implementation is based on JavaScript and HTML & CSS.
 - I took part in a webinar on writing a Tetris game in Javascript:
   [Tetris game youtube](https://www.youtube.com/playlist?list=PLOlyZEVllXBFqd_vujzq3lX0MeeUHHsz6)
 - I am also taking additional training on the materials from the website:
