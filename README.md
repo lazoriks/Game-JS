@@ -11,54 +11,27 @@ A rather simple game written in Javascript is aimed at people who want to rememb
 
 - __Navigation Bar__
 
-  + Featured on all pages, the responsive navigation bar includes links to the Logo, Home page, Gallery, and Sign Up page.
-  + Ensures easy navigation across all devices, providing a consistent experience.
+  The responsive navigation bar on the right side of the website contains links to buttons:
++ Start 
++ Pause
+  
+And also navigation of information on the game: 
++ High score
++ Score 
++ Lines (how many lines are stacked)
++ Next (next figure)
++ Speed
++ Level.
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
-
+![Nav Bar](https://github.com/lazoriks/Game-JS/blob/main/img/NavBar.png)
 
 - __The landing page image__
 
-  - The landing page includes a captivating photograph with text overlay, introducing users to the game environment.
-  - Grabs the user's attention with an eye-catching animation.
+  - The landing page contains the Tetris board itself. The pieces appear at the top of the board and go down. 
+When you click the Start button, the pieces appear on the board, move down and form a line. 
+- The landing page is quite clear for the user.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
-
-- __Club Ethos Section__
-
-  - Highlights the benefits of joining the game community, encouraging users to engage in the gaming experience.
-  - Emphasizes the value of participating in the Tetris game. 
-
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
-
-- __Meetup Times section__
-
-  - Provides information about the game's schedule, location, and run duration.
-  - Keeps users updated on meetup times.
-
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
-
-- __The Footer__ 
-
-  - Includes links to Love Running's social media sites, promoting user engagement.
-  - Encourages users to stay connected via social media.
-
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
-
-- __Gallery__
-
-  - Displays images showcasing different aspects of the game meetups.
-  - Helps users visualize the gaming events organized by the community. 
-
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
-
-- __The Sign Up Page__
-
-  - Allows users to sign up for the Tetris game community.
-  - Users can specify their preference for road, trail, or both types of running.
-    
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
-
+![Landing Page](https://github.com/lazoriks/Game-JS/blob/main/img/LandPage.png)
 
 ### Features Left to Implement
 
@@ -88,6 +61,7 @@ The Tetris game is deployed on GitHub Pages. To deploy:
 
 The live link can be found here.
 
+[Game Tetris]()
 
 ## Credits 
 
@@ -95,6 +69,7 @@ The live link can be found here.
 
 - The project structure and README template were adapted from Lucy Rush's template.
 - Tetris game implementation is based on JavaScript and HTML.
+- 
 
 ### Media
 
