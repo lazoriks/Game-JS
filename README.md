@@ -61,7 +61,7 @@ The Tetris game is deployed on GitHub Pages. To deploy:
 
 The live link can be found here.
 
-[Game Tetris]()
+[Game Tetris](lazoriks.github.io/Game-JS/)
 
 ## Credits 
 
@@ -69,7 +69,11 @@ The live link can be found here.
 
 - The project structure and README template were adapted from Lucy Rush's template.
 - Tetris game implementation is based on JavaScript and HTML.
-- 
+- I took part in a webinar on writing a Tetris game in Javascript
+  [Tetris game youtube](https://www.youtube.com/playlist?list=PLOlyZEVllXBFqd_vujzq3lX0MeeUHHsz6)
+- I am also taking additional training on the materials from the website
+  [CyberBionic Systematics](https://edu.cbsystematics.com/ua)
+  [Codefinity](https://ua.codefinity.com/)
 
 ### Media
 
